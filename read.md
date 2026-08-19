@@ -1,4 +1,5 @@
 # GIC CRM MCP Server
+# this is for June_Branch
 
 Claude（Desktop / claude.ai / Claude Code）から GIC CRM を自然言語で操作するための
 MCP サーバー。CRM の REST API（STG: `https://crm-stg-api.gicjp.org/api/v1`）を
